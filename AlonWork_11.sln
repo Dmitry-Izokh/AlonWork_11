@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlonWork_11", "AlonWork_11\AlonWork_11.csproj", "{DAEB3E16-A650-42E5-B4C9-F9FE7962A9D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAEB3E16-A650-42E5-B4C9-F9FE7962A9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEB3E16-A650-42E5-B4C9-F9FE7962A9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEB3E16-A650-42E5-B4C9-F9FE7962A9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEB3E16-A650-42E5-B4C9-F9FE7962A9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A4124BF-08E7-4737-B8C3-023D31FB937A}
+	EndGlobalSection
+EndGlobal
